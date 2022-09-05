@@ -12,8 +12,8 @@
 
 ## 💻 Tarefas 
 
-- [x] 1. Primeiro Componente
-- [x] 2. Com Parâmetros
+- [x] 1. Primeiro Componente: basicos/Primeiro.jsx
+- [x] 2. Com Parâmetros: basicos/ComParametro.jsx
 - [x] 3. Fragmento
 - [x] 4. Desafio Aleatório
 - [x] 5. Componente com filhos
