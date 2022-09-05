@@ -14,16 +14,17 @@
 
 - [x] 1. Primeiro Componente: basicos/Primeiro.jsx
 - [x] 2. Com Parâmetros: basicos/ComParametro.jsx
-- [x] 3. Fragmento
-- [x] 4. Desafio Aleatório
-- [x] 5. Componente com filhos
-- [x] 6. Repetição
-- [x] 7. Desafio de Repetição
-- [x] 8. Renderização Condicional
-- [x] 9. Comunicação Direta
-- [x] 10. Comunicação Indireta
-- [x] 11. Componente Controlado
-- [x] 12. Contador
+- [x] 3. Fragmento: basicos/Fragmento.jsx
+- [x] 4. Desafio Aleatório: basicos/Aleatório.jsx
+- [x] 5. Card, um componente template: layout/Card.jsx
+- [x] 6. Componente com filhos: basicos/Familia.jsx e basicos/FamiliaMembro.jsx
+- [x] 7. Repetição: repeticao/ListaAlunos.jsx e repeticao/TabelaProdutos.jsx
+- [x] 8. Desafio de Repetição
+- [x] 9. Renderização Condicional
+- [x] 10. Comunicação Direta
+- [x] 11. Comunicação Indireta
+- [x] 12. Componente Controlado
+- [x] 13. Contador
 
 ## 🚀 Seções 
 
@@ -32,7 +33,7 @@
 
 ## 🚀 Desafio Final
 
-- [x] 13. Megasena
+- [x] 14. Megasena
 
 ## 🚧 Warnings (identifica, pesquisa, programa e testa)
 
