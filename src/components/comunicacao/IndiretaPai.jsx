@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import IndiretaFilho from "./IndiretaFilho";
 
-export default (props) => {
+const IndiretaPai = (props) => { 
     const [nome, setNome] = useState("?")
     const [idade, setIdade] = useState(0)
     const [nerd, setNerd] = useState(false) 
@@ -23,3 +23,5 @@ export default (props) => {
         </div>
     )
 }
+
+export default IndiretaPai

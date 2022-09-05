@@ -38,7 +38,7 @@
 
 ## 🚧 Warnings (identificar, pesquisar, programar e testar)
 
-- Eslint, array function: `Assign arrow function to a variable before exporting as module default Eslint`
+- Eslint, array function: `Assign arrow function to a variable before exporting as module default Eslint`: pede para nomear a função
  
 ## 📝 Licença
 

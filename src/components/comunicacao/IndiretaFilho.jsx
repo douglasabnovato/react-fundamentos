@@ -1,12 +1,13 @@
 import React from "react"; 
 
-export default props => { 
+//export default = (props) => {
+const IndiretaFilho = (props) => { 
     const cb = props.quandoClicar
     const min = 50
     const max = 70
-    const gerarIdade = () => parseInt(Math.random() * (50 - 20)) + 20
+    const gerarIdade = () => parseInt(Math.random() * (min - (max - min))) + (max - min)
     const gerarNerd = () => Math.random() > 0.5
-    
+
     return(
         <div> 
             <div> Filho </div>
@@ -15,3 +16,5 @@ export default props => {
         </div>
     )
 }
+
+export default IndiretaFilho;
