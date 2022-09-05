@@ -1,16 +1,14 @@
 <h4 align="center"> 
 	🚧 React Fundamentos 🚀
-</h4>   
-
-## 🎨 Layout
+</h4>  
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;"> 
   <img alt="FundamentosReact" title="#FundamentosReact" src="./.github/tela.jpg" width="600px"> 
 </p> 
 
-## 💻 Projeto
+## 🎨 Projeto
 
-- Criado um layout para demonstrar os fundamentos do react na prática.
+- Criado um layout para demonstrar os fundamentos do react na prática. 
 
 ## 💻 Tarefas 
 
