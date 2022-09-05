@@ -24,7 +24,7 @@
 - [x] 10. Renderização Condicional com componente funcional: condicional/If.js e condicional/UsuarioInfo.jsx
 - [x] 11. Comunicação Direta: comunicacao/DiretaFilho.jsx e comunicacao/DiretaPai.jsx
 - [x] 12. Comunicação Indireta: comunicacao/IndiretaFilho.jsx e comunicacao/IndiretaPai.jsx, utiliza estado
-- [x] 13. Componente Controlado
+- [x] 13. Componente Controlado: formulario/Input.jsx
 - [x] 14. Contador
 
 ## 🚀 Seções 
