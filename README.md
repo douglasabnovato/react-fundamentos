@@ -20,11 +20,12 @@
 - [x] 6. Componente com filhos: basicos/Familia.jsx e basicos/FamiliaMembro.jsx
 - [x] 7. Repetição: repeticao/ListaAlunos.jsx e data/alunos.js
 - [x] 8. Desafio de Repetição: repeticao/TabelaProdutos.jsx e data/produtos.js
-- [x] 9. Renderização Condicional: condicional/ParOuImpar.jsx e condicional/UsuarioInfo.jsx
-- [x] 10. Comunicação Direta
-- [x] 11. Comunicação Indireta
-- [x] 12. Componente Controlado
-- [x] 13. Contador
+- [x] 9. Renderização Condicional com operador ternário: condicional/ParOuImpar.jsx
+- [x] 10. Renderização Condicional com componente funcional: condicional/If.js e condicional/UsuarioInfo.jsx
+- [x] 11. Comunicação Direta
+- [x] 12. Comunicação Indireta
+- [x] 13. Componente Controlado
+- [x] 14. Contador
 
 ## 🚀 Seções 
 
@@ -33,7 +34,7 @@
 
 ## 🚀 Desafio Final
 
-- [x] 14. Megasena
+- [x] 15. Megasena
 
 ## 🚧 Warnings (identifica, pesquisa, programa e testa)
 
