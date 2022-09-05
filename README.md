@@ -25,7 +25,7 @@
 - [x] 11. Comunicação Direta: comunicacao/DiretaFilho.jsx e comunicacao/DiretaPai.jsx
 - [x] 12. Comunicação Indireta: comunicacao/IndiretaFilho.jsx e comunicacao/IndiretaPai.jsx, utiliza estado
 - [x] 13. Componente Controlado: formulario/Input.jsx
-- [x] 14. Contador
+- [x] 14. Contador, um componente baseado em classe: contador/Contador.jsx, contador/Botoes.jsx, contador/Display.jsx, contador/PassoForm.jsx
 
 ## 🚀 Seções 
 
