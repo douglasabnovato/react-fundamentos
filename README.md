@@ -18,9 +18,9 @@
 - [x] 4. Desafio Aleatório: basicos/Aleatório.jsx
 - [x] 5. Card, um componente template: layout/Card.jsx
 - [x] 6. Componente com filhos: basicos/Familia.jsx e basicos/FamiliaMembro.jsx
-- [x] 7. Repetição: repeticao/ListaAlunos.jsx e repeticao/TabelaProdutos.jsx
-- [x] 8. Desafio de Repetição
-- [x] 9. Renderização Condicional
+- [x] 7. Repetição: repeticao/ListaAlunos.jsx e data/alunos.js
+- [x] 8. Desafio de Repetição: repeticao/TabelaProdutos.jsx e data/produtos.js
+- [x] 9. Renderização Condicional: condicional/ParOuImpar.jsx e condicional/UsuarioInfo.jsx
 - [x] 10. Comunicação Direta
 - [x] 11. Comunicação Indireta
 - [x] 12. Componente Controlado
