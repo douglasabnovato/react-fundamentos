@@ -36,9 +36,9 @@
 
 - [x] 15. Megasena
 
-## 🚧 Warnings (identifica, pesquisa, programa e testa)
+## 🚧 Warnings (identificar, pesquisar, programar e testar)
 
-- identifica, pesquisa, programa e testa
+- Eslint: `Assign arrow function to a variable before exporting as module default Eslint`
  
 ## 📝 Licença
 
