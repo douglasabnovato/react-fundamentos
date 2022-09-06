@@ -17,7 +17,7 @@ import DiretaPai from "./components/comunicacao/DiretaPai";
 import IndiretaPai from "./components/comunicacao/IndiretaPai";
 import Input from "./components/formulario/Input";
 import Contador from "./components/contador/Contador";
-import Mega from "./components/mega/Mega";
+import Megasena from "./components/megasena/Megasena";
 
 export default function App(props) {
   return (
@@ -25,7 +25,7 @@ export default function App(props) {
       <h1>React Fundamentos</h1>
       <div className="Cards">
         <Card titulo="#13 - Megasena" color="#B9006E">
-          <Mega />
+          <Megasena />
         </Card>
         <Card titulo="#12 - Contador" color="#424242">
           <Contador numeroInicial={4} />

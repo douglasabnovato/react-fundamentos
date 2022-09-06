@@ -1,6 +1,6 @@
 /* eslint-disable import/no-anonymous-default-export */
 import React, { useState } from "react";
-import "./Mega.css";
+import "./Megasena.css";
 
 export default props => {
 
@@ -27,8 +27,8 @@ export default props => {
     const [numeros, setNumeros] = useState(numerosIniciais)
 
     return (
-        <div className="Mega">
-             <h3>Mega</h3>
+        <div className="Megasena">
+             <h3>Mega sena</h3>
              <h4>{numeros.join(" ")}</h4>
              <div>
                  <label>Quantidade de Números</label>
