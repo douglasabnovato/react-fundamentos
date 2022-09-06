@@ -1,7 +1,7 @@
 /* eslint-disable import/no-anonymous-default-export */
 import React from "react";
 
-export default props => {
+export default function PassoForm(props) {
     return (
         <div>
             <label htmlFor="passoInput">Passo: </label>

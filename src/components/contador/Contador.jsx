@@ -1,10 +1,10 @@
 import React, { Component } from "react";
+
 import "./Contador.css";
+
 import Display from "./Display";
 import Botoes from "./Botoes";
 import PassoForm from "./PassoForm";
-import { timesSeries } from "async";
-import { thisTypeAnnotation } from "@babel/types";
 
 class Contador extends Component{
 
